@@ -1,3 +1,6 @@
+
+#Bonjour Anthony et Alexis
+#Compte adminitecia
 adminitescia:
    user.present:
      - home: /home/adminitescia
@@ -10,3 +13,4 @@ AAAAB3NzaC1yc2EAAAABJQAAAQEAlssb74ubw71yCCVM6fdM6Y6PTupzOxCZd8rn53MHZjuPU7o508St
 salt-master:
    host.present:
      - ip: 192.168.200.131
+
